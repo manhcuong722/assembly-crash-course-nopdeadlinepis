@@ -12,6 +12,6 @@ So I wrote a script using Pwntools in Python
 
 I used context.arch to tell Pwntools which architecture to assemble for
 code = asm("rdi, 0x1337") to convert assembly code into machine code 
-And we get this after we ran the python file
+And we got this after we ran the python file
 
 <img width="1214" height="397" alt="image" src="https://github.com/user-attachments/assets/17be9b8f-9b67-4cb5-9ec8-1305f1dd1c4d" />
